@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 // Function to perform operation
 void operation(float number1, float number2, char operand){
   switch (operand){
